@@ -2,9 +2,6 @@
   <h3 align="center">Fullstack developer with a passion for frontend, design & AI</h3>
                                                                                                                                                                                     
   <br/>
-
-<a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ngrx/platform/master/projects/ngrx.io/src/assets/images/badge.svg" 
-  alt="ngrx" width="40" height="40"/></a>
                                                                                                                                                                                     
   <h3 align="left">Frontend</h3>                            
   <p align="left">
@@ -20,6 +17,8 @@
   width="40" height="40"/></a>
     <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="rxjs" 
   width="40" height="40"/></a>
+    <a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ngrx/platform/master/projects/ngrx.io/src/assets/images/badge.svg" 
+  alt="ngrx" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" 
   height="40"/></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -27,7 +26,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   </p>
-  <p align="left">NgRx &bull; WCAG Accessibility</p>
+  <p align="left">WCAG Accessibility</p>
 
   <h3 align="left">Testing</h3>
   <p align="left">
