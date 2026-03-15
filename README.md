@@ -2,6 +2,9 @@
   <h3 align="center">Fullstack developer with a passion for frontend, design & AI</h3>
                                                                                                                                                                                     
   <br/>
+
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ngrx/platform/master/projects/ngrx.io/src/assets/images/badge.svg" 
+  alt="ngrx" width="40" height="40"/></a>
                                                                                                                                                                                     
   <h3 align="left">Frontend</h3>                            
   <p align="left">
