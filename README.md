@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋</h1>
+<h1 align="center">👋</h1>
   <h3 align="center">Fullstack developer with a passion for frontend, design & AI</h3>
                                                                                                                                                                                     
   <br/>
