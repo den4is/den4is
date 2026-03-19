@@ -62,7 +62,7 @@
   </p>
 
   <h3 align="left">AI</h3>
-  <p align="left">Claude (Anthropic) &bull; OpenAI &bull; RAG &bull; LangChain &bull; AI-assisted development &bull; Prompt engineering bull; LLM integrations</p>
+  <p align="left">Claude (Anthropic) &bull; OpenAI &bull; RAG &bull; LangChain &bull; AI-assisted development &bull; Prompt engineering &bull; LLM integrations</p>
 
   <h3 align="left">DevOps & Tools</h3>
   <p align="left">
